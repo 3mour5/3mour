@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+}
+
+.header{
+    background-color: rgba(19, 22, 79, 0.46);
+    width: max-content;
+    width: 100%;
+    height: max-content;
+    height: 70px;
+    border-radius: 10px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1{
+    margin: 0px;
+    color: rgb(43, 42, 42);
+}
+
+.btn{
+    margin-right: 50px;
+    padding: 20px;
+}
+
+.btn button{
+    background-color:rgba(19, 22, 79, 0.46);
+    color: aquamarine;
+    
+}
